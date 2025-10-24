@@ -1,7 +1,6 @@
 # Setup
-title: Dark Poole
-url: https://getpoole.com
-paginate: 1
+title: Pranav's Blog
+url: https://pranavrajmane.github.io
 baseurl: ""
 permalink: pretty
 
@@ -32,9 +31,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Pranav Rajmane
+  url: https://x.com/rajmane_pranav
+  email: pranav.rajmane02@gmail.com
 
 # Custom vars
 version: 3.0.0
@@ -44,5 +43,5 @@ nav:
   - title: Blog
     url: /archive
 
-  - title: About
+  - title: About Me
     url: /about
