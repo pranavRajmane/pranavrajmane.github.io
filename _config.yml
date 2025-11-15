@@ -3,7 +3,7 @@ title: Pranav's Blog
 url: https://pranavrajmane.github.io
 baseurl: ""
 permalink: pretty
-paginate: 5
+paginate: 1
 
 # Gems
 plugins:
